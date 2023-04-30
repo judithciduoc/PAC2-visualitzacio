@@ -1,6 +1,6 @@
 # A5: Estudi de tècniques de visualització de dades (PAC2)
 
-En aquest repositori es troben les tres visualitzacions creades per a la PAC2 de l'assignatura visualització de dades. 
+En aquest repositori es troben les tres visualitzacions creades per Judith Cid per a la PAC2 de l'assignatura visualització de dades. 
 
 ## Dot density map: Distribució de la densitat de població a la província de Màlaga
 
